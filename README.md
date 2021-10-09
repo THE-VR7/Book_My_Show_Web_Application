@@ -1,5 +1,13 @@
 # Book_My_Show_Web_Application
- This is a full stack web application which is used for booking movie tickets
+Brief : 
+
+Developed a Full Stack Web Application using Angular as frontend, Asp.net Core as backend and MySQL as dataabase, 
+Used PetaPoco for fast access of database, 
+Did Dependency Injection of Services using Simple Injection,
+Mapped Core Models(DTOs) of Frontend with the Data Models of Backende using AutoMapper library
+Used Entity Core Framework for creating User in db, providing login and signup options using JWTTokens.
+Created Sections like Filter Movies, Search Movies by Name , Book Ticket Modal PopUp using Angular Fundamentals 
+
 
 ScreenShots of the Project - 
 
